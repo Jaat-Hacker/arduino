@@ -1,4 +1,4 @@
-# arduino
+# Arduino
 ![Project Preview](project.png)
 
 
