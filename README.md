@@ -1,5 +1,5 @@
 # arduino
-[![Project Preview](project.png)]
+![Project Preview](project.png)
 
 This is a IOT Repo
 
